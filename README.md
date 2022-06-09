@@ -1,3 +1,5 @@
+![DialogInsightBackground](https://user-images.githubusercontent.com/8794228/172888339-9956d8ac-c050-4acf-a3c7-a56871d6a8e0.png)
+
 # Défi DIalgorithmique 2022 💻
 
 Ceci est le repository qui servira de gabarit de soumission des solutions aux problèmes algorithmiques du défi DIalgorithmique 2022.
