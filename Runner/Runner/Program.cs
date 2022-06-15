@@ -2,10 +2,8 @@
 var solution = new Solution();
 
 
-Console.WriteLine(solution.Calculate("2+2"));
-Console.WriteLine(solution.Calculate("3+2*2"));
-Console.WriteLine(solution.Calculate(" 3/2 "));
-Console.WriteLine(solution.Calculate(" 3+5 / 2 "));
+Console.WriteLine(solution.LongestCommonPrefix(new[] { "flower", "flow", "floght" }));
+
 
 
 
